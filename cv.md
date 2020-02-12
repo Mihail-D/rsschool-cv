@@ -25,3 +25,8 @@ _- Skills_
 4. Git
 5. Gulp
 
+_- Code examples _
+[HTML Academy project](https://github.com/Mihail-D/cat_energy "HTML Academy project")
+
+_- Experience_  
+During HTML Academy training courses I carried out several projects.
