@@ -30,3 +30,11 @@ _- Code examples _
 
 _- Experience_  
 During HTML Academy training courses I carried out several projects.
+
+_-Education_
+
+- Higher education (bachelor degree)
+- HTML Academy page layout courses (I-II levels)
+
+_- English_
+Intermediate level
