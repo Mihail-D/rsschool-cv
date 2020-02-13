@@ -1,0 +1,114 @@
+a {
+  text-decoration: none;
+  color: #000;
+  margin-left: 10px;
+}
+
+.main-block__description {
+  margin-left: 80px;
+}
+
+.main-header,
+.main-block,
+.main-footer {
+  margin: 0 auto;
+  width: 1024px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f8f4e3;
+  height: 180px;
+  border-bottom: 1px solid #e0e0e0;
+  border-top: 1px solid #e0e0e0;
+}
+
+.main-header__personal-data {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.main-header__caption {
+  margin: 0;
+}
+
+.main-header__position-title {
+  margin: 0;
+}
+
+.main-header__personal-photo {
+  width: 200px;
+}
+
+.main-block {
+  padding-top: 50px;
+  background-color: #f9f9f9;
+  font-size: 18px;
+}
+
+.main-block__category-caption {
+  font-style: italic;
+  text-decoration: underline;
+  color: #021633;
+  margin-left: 50px;
+}
+
+.main-block__category-data {
+  margin-left: 10px;
+}
+
+.main-block__category-data--initials {
+  font-weight: bold;
+}
+
+.main-block__contact {
+  margin-left: 80px;
+  line-height: 18px;
+}
+
+.main-block__info {
+  width: 800px;
+  margin-left: 80px;
+}
+
+.main-block__skills-list {
+  margin-left: 100px;
+  padding: 0;
+}
+
+.main-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8f4e3;
+  height: 100px;
+  border-bottom: 1px solid #e0e0e0;
+  border-top: 1px solid #e0e0e0;
+}
+
+.main-footer__copyright {
+  margin-left: 50px;
+  color: #adadad;
+}
+
+.social {
+  display: flex;
+  margin-right: 50px;
+}
+
+.social li {
+  display: flex;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  list-style: none;
+}
+
+.social__link {
+  display: flex;
+  justify-content: center;
+}
